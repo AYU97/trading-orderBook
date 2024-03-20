@@ -19,13 +19,13 @@ The Simple Order Book is a JavaScript class designed to manage the submission an
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/AYU97/data-fetch-script.git
+   git clone https://github.com/AYU97/trading-orderBook.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd data-fetch-script
+   cd trading-orderBook.git
    ```
 
 3. Install dependencies:
