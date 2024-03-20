@@ -1,4 +1,4 @@
-# Order Book Documentation
+# Trading Order Book Documentation
 
 ## Overview
 
@@ -71,6 +71,6 @@ npm run client
 
 ### Improvements
 
-- enhancing the order matching algorithm to support more complex matching criteria, like limit orders, market orders
+- Enhancing the order matching algorithm to support more complex matching criteria, like limit orders, market orders
 - Could be in the form of adding **validation** checks on orders
-- error handling could be improved in terms of any edge conditions that may come during order submission or matching
+- Error handling could be improved in terms of any edge conditions that may come during order submission or matching
