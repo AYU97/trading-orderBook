@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Simple Order Book is a JavaScript class designed to manage the submission and matching of buy and sell orders in a simplified trading system. It provides basic functionalities for maintaining an order book and matching orders based on their side (buy or sell) and price.
+The Trading Order Book is a JavaScript class designed to manage the submission and matching of buy and sell orders in a simplified trading system. It provides basic functionalities for maintaining an order book and matching orders based on their side (buy or sell) and price.
 
 ## Usage
 
@@ -25,7 +25,7 @@ The Simple Order Book is a JavaScript class designed to manage the submission an
 2. Navigate to the project directory:
 
    ```bash
-   cd trading-orderBook.git
+   cd trading-orderBook
    ```
 
 3. Install dependencies:
@@ -57,7 +57,8 @@ npm run client
 
 ### Notes
 
-I have added mutliple comments in the order book to make it more easy to understand.
+- I have added mutliple comments in the order book to make it more easy to understand.
+- This is a basic implementation of order book.
 
 ### Assumptions
 
