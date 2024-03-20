@@ -1,0 +1,18 @@
+{
+  "name": "grenache",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node src/rpc-server.js",
+    "client": "node src/rpc-client.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "grenache-nodejs-http": "^0.7.13",
+    "grenache-nodejs-link": "^1.0.0"
+  }
+}
